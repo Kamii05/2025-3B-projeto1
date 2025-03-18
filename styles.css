@@ -4,8 +4,8 @@
 :root {
     --roxo:rgb(220, 42, 255);
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #1aff00;
+    --alto-contraste-texto: #3a4ac5;
+    --alto-contraste-link: #ff0073;
 }
 
 body {
